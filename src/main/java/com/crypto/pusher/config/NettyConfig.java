@@ -1,4 +1,4 @@
-package com.example.socket.netty;
+package com.crypto.pusher.config;
 
 import io.netty.channel.Channel;
 import io.netty.channel.group.ChannelGroup;

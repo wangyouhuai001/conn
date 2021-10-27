@@ -1,4 +1,4 @@
-package com.example.socket;
+package com.crypto.pusher;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
